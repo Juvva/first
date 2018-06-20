@@ -6,4 +6,7 @@ here we have diff prog lang
 3.C++
 4.Abapp
 
+5.devappa
+6.Aws
+
 thank you
