@@ -1,0 +1,6 @@
+welcome to first project
+here we have diff prog lang
+1.Java
+2.C
+
+thank you
